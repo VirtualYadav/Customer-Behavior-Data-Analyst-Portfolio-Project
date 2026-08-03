@@ -44,5 +44,3 @@ The dataset contains 3,900 records and 18 fields, including:
 3. Import the dataset into a SQL database and run `customer_behavior_sql_queries.sql` to reproduce the SQL analysis.
 4. Review the report and presentation for the project narrative and findings.
 
-## License
-The included source notebook, SQL file, dataset, and license file retain the original MIT license terms. The report, presentation, README, and supporting visual assets in this package are separate project documentation.
